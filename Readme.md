@@ -1,4 +1,4 @@
-# Network Administration - Homework 1
+# Python
 
 ##Part I - Web crawler
 
